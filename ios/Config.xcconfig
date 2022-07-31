@@ -1,0 +1,10 @@
+//
+//  Config.xcconfig
+//  flounder_app
+//
+//  Created by 이송현 on 2022/07/31.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+#include? "tmp.xcconfig"
